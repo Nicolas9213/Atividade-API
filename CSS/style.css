@@ -49,3 +49,8 @@ h1 {
   color: rgb(255, 255, 255);
   background-color: blue;
 }  
+
+.icone {
+    width: 3%;
+    margin-right: 5%;
+}
